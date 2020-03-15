@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FutureNote</string>
+    <string name="sayHi">Hi Everyone</string>
+    <string name="test">Test Program</string>
+    <string name="SecondActivity">Would you like to take a note now?</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ghi Chú Tương Lai</string>
+    <string name="sayHi">Chào Tất Cả Các Bạn</string>
+    <string name="test">Kiểm Tra Chương Trình</string>
+    <string name="SecondActivity">Bạn có muốn tạo một ghi chú ngay bây giờ không?</string>
+
+
+</resources>
